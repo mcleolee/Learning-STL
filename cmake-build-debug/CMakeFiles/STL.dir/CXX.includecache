@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/raven/CLionProjects/Learning-STL/main.cpp
+iostream
+-
+vector
+-
+deque
+-
+list
+-
+set
+-
+map
+-
+unordered_set
+-
+unordered_map
+-
+iterator
+-
+algorithm
+-
+numeric
+-
+functional
+-
+
